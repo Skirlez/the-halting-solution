@@ -1,0 +1,1 @@
+sprite_delete(global.moving_background_sprite)

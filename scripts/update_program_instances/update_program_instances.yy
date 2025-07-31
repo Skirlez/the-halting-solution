@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_program_instances",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_program_instances",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

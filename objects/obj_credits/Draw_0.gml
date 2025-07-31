@@ -1,0 +1,5 @@
+draw_self()
+draw_set_halign(fa_left)
+draw_set_valign(fa_top)
+draw_set_font(font_kindamedium)
+draw_text(x, y, "Made by skirlez\nPlaytested by:\nhexfae\noriplays666\nAmberfriend")

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_command_instances",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_command_instances",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

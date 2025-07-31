@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"add_command",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"add_command",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

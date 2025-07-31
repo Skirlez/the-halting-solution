@@ -1,0 +1,5 @@
+draw_self()
+draw_set_halign(fa_center)
+draw_set_valign(fa_middle)
+draw_set_font(font_kindamedium)
+draw_text(x, y, "WARNING\nUnless you are VERY familiar with Brainf***,\nYou should head to the tutorial,\nand read it very carefully.\n\nAlso, the game might be loud.\nYou can turn it down in the settings bottom-left.")
