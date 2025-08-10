@@ -19,10 +19,18 @@ https://skirlez.itch.io/the-halting-solution
 |Narrative|#1342|3.100|
 |Artwork|#4490|2.867|
 
+|Stars|Percent|
+|-|-|
+|5 star|38.7%|
+|4 star|24%|
+|3 star|14.7%|
+|2 star|15.3%|
+|1 star|7.3%|
+
 Wow
 
 ## Home format
-Homes (levels) are stored in global.levels, and they are all defined in obj_manager.
+Homes (levels) are stored in `global.levels`, and they are all defined in `obj_manager`.
 Index 0 is reserved for the tutorial, index 1 is reserved for the sandbox.
 
 A home looks like this:
@@ -49,7 +57,7 @@ Here's the final home as an example:
 }
 ```
 
-The `can_use` field is technically redundant (you could just get the names of the variables of the char_limit struct
+The `can_use` variable is technically redundant (you could just get the names of the variables of the `char_limit` struct
 and get the allowed characters that way) BUT IT USED TO NOT BE!!
 Easier and safer to keep it rather than removing it mid-jam, as with many other things...
 
