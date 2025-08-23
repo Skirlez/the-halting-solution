@@ -36,8 +36,8 @@ Index 0 is reserved for the tutorial, index 1 is reserved for the sandbox.
 A home looks like this:
 ```gml
 {
-	program : "(Branefuck characters)",
-	can_use : "(Branefuck characters)",
+	program : "(Brainfuck characters)",
+	can_use : "(Brainfuck characters)",
 	char_limit : {
 		"Character" : (number),
 		"Character" : (number),
